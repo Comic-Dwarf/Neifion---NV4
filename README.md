@@ -6,3 +6,6 @@ this stops frequency analysis, because the numbers ascend instead of being the s
 this process is reversable, and if you have the exact same values, it'll create the same numbers
 the matrices are then deconstructed using commas and straight lines, which are functionally the same, but are necessary for Decryption
 and yeah, that's the Cipher
+
+
+make your own keys, and ABCDs and Prime seeds, that are just for you to use and now you have something that can be read by people who know your stuff :)
